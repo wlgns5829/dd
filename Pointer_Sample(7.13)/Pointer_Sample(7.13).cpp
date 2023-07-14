@@ -1,7 +1,7 @@
 ﻿#include <stdio.h>                          //표준 헤더 파일
 #include <malloc.h>                         //메모리 공간 확보 - heap영역에
                                             //Pointersample 10000 500 : //Command Line 명령어
-char buf[2000]; 
+char buf[100]; 
 void MemoryDump(int start, int length);     //10000 : Start memory 주소
                                          
 int main(int argc, char* arge[])            //500   : Dump 할 메모리 크기
