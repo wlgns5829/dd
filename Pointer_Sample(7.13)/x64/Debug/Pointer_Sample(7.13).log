@@ -1,0 +1,4 @@
+﻿  Pointer_Sample(7.13).cpp
+D:\Workspace\Pointer_Sample(7.13)\Pointer_Sample(7.13)\Pointer_Sample(7.13).cpp(20,24): warning C4311: '형식 캐스트': 'char *'에서 'int'(으)로 포인터가 잘립니다.
+D:\Workspace\Pointer_Sample(7.13)\Pointer_Sample(7.13)\Pointer_Sample(7.13).cpp(20,24): warning C4302: '형식 캐스트': 'char *'에서 'int'(으)로 잘립니다.
+  Pointer_Sample(7.13).vcxproj -> D:\Workspace\Pointer_Sample(7.13)\x64\Debug\Pointer_Sample(7.13).exe
